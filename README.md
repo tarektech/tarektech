@@ -4,7 +4,6 @@ Hi 👋 My name is tarek zein
 front end developer
 -------------------
 
-i have
 
 * 🌍  I'm based in istanbul
 * 🧠  I'm learning node js backend
