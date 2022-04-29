@@ -4,6 +4,10 @@ Hi 👋 My name is tarek zein
 front end developer
 -------------------
 
+software engineering student at istanbul aydin university and self-taught front-end developer 
+who is inspire to learn about new technologies and motivated to improve skills to build high quality websites and projects 
+taking online courses by udemy and coursera websites to improve my skills 
+
 * 🌍  I'm based in istanbul
 * 🧠  I'm learning node js backend
 
