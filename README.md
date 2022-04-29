@@ -1,16 +1,40 @@
-### Hi there 👋, my name is tarek
-#### web developer 
+Hi 👋 My name is tarek zein
+===========================
 
-Skills: Node.js / JS / HTML / CSS / android java 
+front end developer
+-------------------
 
-- 🔭 I’m currently working on developing my web development skills 
-- 🌱 I’m currently learning Node js on udemy 
+i have
+
+* 🌍  I'm based in istanbul
+* 🧠  I'm learning node js backend
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/tarektech)  
+### Socials
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarektech&show_icons=true&count_private=true)  
+<p align="left"> <a href="https://www.dev.to/tarektech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/tarektech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://@life-developer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tarektech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lifeof_software" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tarektech)  
+### Badges
 
-![Profile views](https://gpvc.arturio.dev/tarektech)  
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/tarektech"><img src="https://github-readme-stats.vercel.app/api?username=tarektech&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="tarektech's GitHub stats" /></a>
+
+<a href="http://www.github.com/tarektech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarektech&stroke=ef4444&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+
+<a href="https://github.com/tarektech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarektech&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
