@@ -9,7 +9,6 @@ who is inspire to learn about new technologies and motivated to improve skills t
 taking online courses by udemy and coursera websites to improve my skills 
 
 * 🌍  I'm based in istanbul
-* 🧠  I'm learning node js backend
 
 ### Skills
 
